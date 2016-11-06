@@ -1,0 +1,292 @@
+html{
+
+  background-color: #FAF0E6;
+  width:1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container
+  {
+    width:100%;
+
+  }
+header
+    {
+      height:128px;
+      background-color: #FAF0E6;
+    }
+    #logo
+    {
+      margin-left: 590.5px;
+      margin-top: 10px;
+      width: 90px;
+      height: 90px;
+    }
+    .year
+    {
+      width: 90px;
+      height:20px;
+      background-color: #FAF0E6;
+      margin-left: 617px;
+      margin-top: -20px;
+    }
+    .year p
+    {
+      color:#880000;
+      font-size: 13px;
+      font-family: verdana;
+    }
+.home
+{
+  width:138px;
+  height:40px;
+  background-color: #bc8f8f;
+  margin-left: 214px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+  margin-bottom: 20px;
+}
+.home a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+      color:#fff0f5;
+    padding-left: 32px;
+
+}
+.ning
+{
+  width:138px;
+  height:40px;
+  background-color: #bc8f8f;
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+  margin-bottom: 20px;
+}
+.ning a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+  margin-top: 5px;
+    color:#fff0f5;
+    padding-left: 35px;
+}
+.ching
+{
+  width:138px;
+  height:40px;
+  background-color: #bc8f8f;
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+  margin-bottom: 20px;
+}
+.ching a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+  margin-top: 5px;
+    color:#fff0f5;
+    padding-left: 27px;
+}
+.contact
+{
+  width:138px;
+  height:40px;
+  background-color: #F08080;
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+  margin-bottom: 20px;
+}
+.contact a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+  margin-top: 5px;
+  color:#fff0f5;
+  padding-left:13px;
+
+}
+.daily
+{
+
+  clear: both;
+  background-color:#FFE4E1;
+  width:648px;
+  height:85px;
+  border-radius:3px;
+  margin-left: 316px;
+  color:#D87093;
+}
+.daily p
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 36px;
+  padding-top: 22px;
+}
+#pucca
+{
+  width: 333px;
+  height:445px;
+
+  margin-left: 289px;
+  margin-top: 20px;
+  float: left;
+  border-radius: 3px;
+}
+.boxa
+{
+  margin-left: 36px;
+  width: 240px;
+  height: 173px;
+  background-color: #FF8888;
+  margin-top: 292px;
+  float: left;
+  border-radius: 3px;
+  border-color: #FF8888;
+}
+.boxa p
+{
+  text-align: left;
+  padding-left: 3px;
+  background-color: #FAF0E6;
+  color: #FF8888;
+  font-family: verdana;
+  font-size: 16px;
+  margin-top: 15px;
+
+}
+.boxb
+{
+  clear: both;
+  margin-left: 352px;
+  width: 240px;
+  height: 173px;
+  background-color: #FF8888;
+  margin-top: 292px;
+  float: left;
+  border-radius: 3px;
+  border-color: #FF8888;
+}
+.boxb p
+{
+  text-align: left;
+  padding-left: 3px;
+  background-color: #FAF0E6;
+  color: #FF8888;
+  font-family: verdana;
+  font-size: 16px;
+  margin-top: 15px;
+
+}
+footer
+{
+  clear: both;
+margin-top: 20px;
+  background-color: #bc8f8f;
+  height:60px;
+  margin-left:auto;
+  margin-right:auto;
+}
+#pucca1
+{
+  width: 333px;
+  height:445px;
+  margin-left: 36px;
+  margin-top: 20px;
+  float: left;
+  border-radius: 3px;
+}
+#cat
+{
+  width: 333px;
+  height:445px;
+  margin-left: 289px;
+  margin-top: 20px;
+  clear: both;
+  float: left;
+  border-radius: 3px;
+}
+.boxc
+{
+  margin-left: 36px;
+  width: 240px;
+  height: 173px;
+  background-color: #FF8888;
+  margin-top: 292px;
+  float: left;
+  border-radius: 3px;
+  border-color: #FF8888;
+}
+.boxc p
+{
+  text-align: left;
+  padding-left: 3px;
+  background-color: #FAF0E6;
+  color: #FF8888;
+  font-family: verdana;
+  font-size: 16px;
+  margin-top: 15px;
+
+}
+.boxd
+{
+  clear: both;
+  margin-left: 352px;
+  width: 240px;
+  height: 173px;
+  background-color: #FF8888;
+  margin-top: 180px;
+  float: left;
+  border-radius: 3px;
+  border-color: #FF8888;
+  margin-bottom: 20px;
+}
+.boxd p
+{
+  text-align: left;
+  padding-left: 3px;
+  background-color: #FAF0E6;
+  color: #FF8888;
+  font-family: verdana;
+  font-size: 16px;
+  margin-top: 15px;
+
+}
+#hambuger
+{
+  width: 445px;
+  height:333px;
+  margin-left: 36px;
+  margin-top: 20px;
+  float: left;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+footer
+{
+  margin-top: 20px;
+  background-color: #bc8f8f;
+  height:60px;
+  margin-left:auto;
+  margin-right:auto;
+  clear: both;
+}
+.foot p
+{
+font-family:Verdana;
+text-align: center;
+padding-top:20px;
+  color:#fff0f5;
+}
