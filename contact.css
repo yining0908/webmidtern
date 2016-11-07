@@ -1,0 +1,323 @@
+html{
+
+  background-color: #FAF0E6;
+  width:1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container
+  {
+    width:100%;
+
+  }
+
+header
+    {
+      height:128px;
+      background-color: #FAF0E6;
+    }
+
+    #logo
+    {
+      margin-left: 590.5px;
+      margin-top: 10px;
+      width: 90px;
+      height: 90px;
+    }
+    .year
+    {
+      width: 90px;
+      height:20px;
+      background-color: #FAF0E6;
+      margin-left: 617px;
+      margin-top: -20px;
+    }
+    .year p
+    {
+      color:#880000;
+      font-size: 13px;
+      font-family: verdana;
+    }
+.home
+{
+  width:138px;
+  height:40px;
+  background-color: #bc8f8f;
+  margin-left: 214px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+}
+.home a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+      color:#fff0f5;
+    padding-left: 32px;
+}
+.home a:hover{color: #880000;
+ }
+.ning
+{
+  width:138px;
+  height:40px;
+  background-color: #bc8f8f;
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+}
+.ning a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+  margin-top: 5px;
+    color:#fff0f5;
+    padding-left: 35px;
+}
+/*.ning ul{
+  margin:0;
+  padding:0;
+}
+.ning li{list-style:none;}
+.ning a {
+  text-decoration:none;
+display: block;
+background-color: white;
+color:#bc8f8f;
+border-width: 2px;
+border-color: #fff0f5;
+border-style: solid;}
+.ning ul{display:none}
+.ning ul li*/
+.ning a:hover{color: #880000;}
+
+.ching
+{
+  width:138px;
+  height:40px;
+  background-color: #bc8f8f;
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+}
+.ching a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+  margin-top: 5px;
+    color:#fff0f5;
+    padding-left: 27px;
+}
+.ching a:hover{color: #880000;}
+.contact
+{
+  width:138px;
+  height:40px;
+  background-color: #F08080;
+  margin-left: 100px;
+  margin-top: 20px;
+  float:left;
+  border-radius:3px;
+}
+.contact a
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 24px;
+  margin-top: 5px;
+  color:#fff0f5;
+  padding-left:13px;
+
+}
+.contact a:hover{color: #880000;}
+.contactus
+{
+  margin-top: 20px;
+  background-color:#FFE4E1;
+  width:372px;
+  height:85px;
+  float:left;
+  border-radius:3px;
+  margin-left: 454px;
+  color:#D87093;
+}
+.contactus p
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 36px;
+  margin-top: 22px;
+}
+#studio
+{
+padding-top: 20px;
+  margin-left: 274.5px;
+  margin-right:274.5px;
+  display: block;
+}
+.yichingstudio
+{
+  margin-top: 20px;
+  background-color:#FFE4E1;
+  width:372px;
+  height:85px;
+  float:left;
+  border-radius:3px;
+  margin-left: 454px;
+}
+.yichingstudio p
+{
+  text-align: center;
+  font-family:Verdana;
+  font-size: 36px;
+  margin-top: 22px;
+  color:#D87093;
+}
+  #phone
+  {
+    padding-top: 71.5px;
+    margin-left: 168px;
+    display: block;
+    clear:both;
+ float: left;
+  }
+  .phonenumber
+  {
+    width:358px;
+    height:210px;
+    background-color: #FFF8DC;
+    margin-left: 26px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: #FFE4C4;
+    border-radius:30px;
+    border-width: 5px;
+    float:left;
+    box-sizing: border-box;
+  }
+  .phonenumber p
+  {
+    text-align: left;
+    font-family:Verdana;
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 3px;
+    color:#F08080;
+  }
+  #address
+  {
+    padding-top: 71.5px;
+    margin-left: 36px;
+    display: block;
+    float:left;
+  }
+  .addressbox
+  {
+    width:358px;
+    height:210px;
+    background-color: #FFF8DC;
+    margin-left: 26px;
+    margin-top: 20px;
+    border-style: solid;
+    border-color: #FFE4C4;
+    border-radius:30px;
+    border-width: 5px;
+    float:left;
+      box-sizing: border-box;
+  }
+  .addressbox p
+  {
+    text-align: left;
+    font-family:Verdana;
+    font-size: 16px;
+    padding-left: 10px;
+    padding-right: 15px;
+    padding-top: 17px;
+     color:#F08080
+  }
+iframe
+{
+  margin-top:20px;
+  display:block ;
+  margin-right:170px;
+  float: right;
+  margin-bottom: 20px;
+}
+
+  footer
+  {
+    clear: both;
+    margin-top: 20px;
+    background-color: #bc8f8f;
+    height:60px;
+    margin-left:auto;
+    margin-right:auto;
+  }
+
+.foot p
+{
+  font-family:Verdana;
+  text-align: center;
+  padding-top:20px;
+    color:#fff0f5;
+}
+@media screen and (max-width: 768px) {
+.container{
+width: 60%;
+}
+  #logo
+  {
+    margin-left: 112px;
+  }
+  .year{
+    margin-left: 138.5px;
+  }
+  .home
+  {
+    margin-left: 226px;
+  }
+  .ning{margin-left:40px;}
+  .ching{clear: both;
+  margin-left: 226px;}
+  .contact{margin-left: 40px}
+  .contactus
+  {
+    margin-left: 198px;
+  }
+  #studio
+  {
+    width: 372px;
+    margin-left: 198px;
+    height: 50%;
+  }
+  .yichingstudio
+  {
+  margin-left: 198px;
+  }
+  #phone{margin-left: 198px;
+  width: 40px;
+height: 40px;}
+.phonenumber{height: 160px;
+width: 304px;}
+.phonenumber p{font-size: 13px;}
+#address{
+  clear:both;
+  margin-left: 198px;
+width: 40px;
+height: 40px;}
+.addressbox{height: 160px;
+width: 304px;}
+.addressbox p{font-size: 13px;}
+hr{width: 280px;}
+iframe{margin-left: 198px;
+width: 372px;
+height: 233px;}
+footer{width: 768px;margin-left: 0px;}
+.foot p{font-size: 12px;}
+}
